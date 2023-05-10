@@ -1,0 +1,9 @@
+@font-face {
+ font-family: 'Intrepid';
+  src: url('/font/Intrepid Regular.ttf') format('truetype');
+}
+
+body {
+  font-family: Intrepid;
+  text-align: center;
+}
