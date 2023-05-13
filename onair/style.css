@@ -1,0 +1,15 @@
+@font-face {
+ font-family: 'Intrepid';
+  src: url('font/Intrepid Regular.ttf') format('truetype');
+}
+@font-face {
+ font-family: 'Rounded-L M+ 1c';
+  src: url('font/rounded-l-mplus-1c-light.ttf') format('truetype');
+}
+
+body {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: Intrepid, "Rounded-L M+ 1c";
+  text-align: center;
+}
