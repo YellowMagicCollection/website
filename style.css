@@ -1,8 +1,8 @@
 @font-face {
  font-family: 'Intrepid';
-  src: url('/font/Intrepid Regular.ttf') format('truetype');
+  src: url('font/Intrepid Regular.ttf') format('truetype');
  font-family: 'Rounded-L M+ 1c';
-  src: url('/font/rounded-l-mplus-1c-light.ttf') format('truetype');
+  src: url('font/rounded-l-mplus-1c-light.ttf') format('truetype');
 }
 
 body {
