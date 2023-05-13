@@ -1,9 +1,11 @@
 @font-face {
  font-family: 'Intrepid';
   src: url('/font/Intrepid Regular.ttf') format('truetype');
+ font-family: 'RoundedMplus';
+  src: url('/font/rounded-l-mplus-1c-light.ttf') format('truetype');
 }
 
 body {
-  font-family: Intrepid;
+  font-family: RoundedMplus, Intrepid;
   text-align: center;
 }
