@@ -1,6 +1,6 @@
 @font-face {
- font-family: 'Intrepid';
-  src: url('../font/Intrepid Regular.ttf') format('truetype');
+ font-family: 'futura';
+  src: url('../font/futura.ttf') format('truetype');
 }
 @font-face {
  font-family: 'Rounded-L M+ 1c';
@@ -10,5 +10,5 @@
 body {
   background-color: #000000;
   color: #ffffff;
-  font-family: Intrepid, "Rounded-L M+ 1c";
+  font-family: futura, "Rounded-L M+ 1c";
 }
