@@ -1,0 +1,22 @@
+@font-face {
+ font-family: 'futura';
+  src: url('../font/futura-regular.ttf') format('truetype');
+}
+@font-face {
+ font-family: 'Rounded-L M+ 1c';
+  src: url('../font/rounded-l-mplus-1c-light.ttf') format('truetype');
+}
+
+body {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: futura, "Rounded-L M+ 1c";
+  text-align: center;
+}
+
+a {
+  background-color: yellow;
+  color: #000;
+  border-radius: 2px;
+  padding: 5px;
+}
