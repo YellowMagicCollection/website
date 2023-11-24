@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>09.10 中野サンプラザ</title>
+    <base href="https://yellowmagiccollection.github.io/website/">
+    <link rel="icon" type="image/x-icon" href="asset/favicon/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" href="asset/favicon/favicon-48x48.png" sizes="48x48" />
+    <link rel="icon" type="image/png" href="asset/favicon/favicon-72x72.png" sizes="72x72" />
+    <link rel="icon" type="image/png" href="asset/favicon/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/png" href="asset/favicon/favicon-128x128.png" sizes="128x128" />
+    <link rel="icon" type="image/png" href="asset/favicon/favicon-144x144.png" sizes="144x144" />
+    <link rel="icon" type="image/png" href="asset/favicon/favicon-152x152.png" sizes="152x152" />
+    <link rel="icon" type="image/png" href="asset/favicon/favicon-160x160.png" sizes="160x160" />
+    <link rel="icon" type="image/png" href="asset/favicon/favicon-192x192.png" sizes="192x192" />
+    <link rel="icon" type="image/png" href="asset/favicon/favicon-196x196.png" sizes="196x196" />
+    <link rel="icon" type="image/png" href="asset/favicon/favicon-256x256.png" sizes="256x256" />
+    <link rel="icon" type="image/png" href="asset/favicon/favicon-384x384.png" sizes="384x384" />
+    <link rel="icon" type="image/png" href="asset/favicon/favicon-512x512.png" sizes="512x512" />
+    <link rel="apple-touch-icon" sizes="144x144" href="asset/favicon/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="asset/favicon/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="asset/favicon/apple-touch-icon-180x180.png" />
+    <link rel="stylesheet" href="onair/style2.css" />
+  </head>
+  <body>
+    <font color="yellow"><h1>SPECIAL GUEST of THE TUBES</h1></font>
+    <h3>1979/08/04</h3>
+    <ol>
+      <li>BEHIND THE MASK</li>
+      <li>LA FEMME CHINOISE</li>
+      <li>COSMIC SURFIN'</li>
+      <li>RYDEEN</li>
+      <li>DAY TRIPPER</li>
+      <li>THOUSAND KNIVES</li>
+      <h5>encore</h5>
+      <li>TONG POO</li>
+    </ol>
+  </body>
